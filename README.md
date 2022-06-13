@@ -5,5 +5,11 @@
 - uses a seperate function to trigger "you loss!" event. 
 - Non Number user input will not count as a guess (thanks to a 'while' loop)
 
+## How to Run
+- clone this repo
+- $ cargo build
+- $ cargo run
+- Have fun!
+
 if you would like to work, my email is
 errollgnargnar@gmail.com
